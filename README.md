@@ -1,2 +1,2 @@
 # DividendCalculator
-Python Script using simple math to calculate dividends quick and easy. 
+Python Script using simple math to calculate dividends quick and easy.
